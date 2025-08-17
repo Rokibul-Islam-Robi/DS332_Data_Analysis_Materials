@@ -52,7 +52,13 @@ It demonstrates **data cleaning, visualization, and analysis** on a real-world d
    ```bash
    git clone https://github.com/<your-username>/Airbnb-Data-Analysis.git
    cd Airbnb-Data-Analysis
-   
+   Install dependencies:
+
+2. pip install pandas numpy matplotlib seaborn scikit-learn
+
+3.Open the notebook:
+jupyter notebook notebooks_Airnb_Open-Data.ipynb
+
 📈 Sample Visualizations
 
 Bar chart showing top 10 Airbnb cities by number of listings
